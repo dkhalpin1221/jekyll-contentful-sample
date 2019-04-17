@@ -1,2 +1,2 @@
-# jekyll-contentful-sample
+# jekyll-sample
 My first jekyll + contentful site.
