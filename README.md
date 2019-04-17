@@ -1,2 +1,2 @@
 # jekyll-sample
-My first jekyll + contentful site.
+My first jekyll site with using markdown for content.
